@@ -38,3 +38,7 @@ As a user
 In order to have a game be winnable
 I want the game to be over and a winner declared at the end
 
+
+Game Interface
+field_choice
+
